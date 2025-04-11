@@ -34,8 +34,8 @@
 ### 问题3: 参数曲面绘制结果
 
 *(插入图片或截图并简要分析三维曲面的特点)*
+![image](https://github.com/user-attachments/assets/55b42a63-610f-46ee-b13f-e4a7ded1d434)
 
----
 
 ## 五、实验总结与讨论
 
